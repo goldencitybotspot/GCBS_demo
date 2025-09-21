@@ -37,3 +37,4 @@ Visit http://localhost:3000. Define env vars in your shell before starting.
 - `/api/config` only returns non-sensitive values.
 - Env var changes usually require a redeploy.
 - Same-origin calls; CORS not required.
+- deploy
